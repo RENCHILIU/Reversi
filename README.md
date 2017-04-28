@@ -9,6 +9,11 @@ python main.py
 ### Change AI type：
 paste different AI to the main folder form each AI sub-folder.
 
+### AI type
+-AlphaBeta
+-Greedy
+-MinMax
+
 
 
 
